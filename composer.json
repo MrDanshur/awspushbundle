@@ -1,5 +1,5 @@
 {
-    "name": "mcfedr/awspushbundle",
+    "name": "mrdanshur/awspushbundle",
     "type": "symfony-bundle",
     "description": "A set of services to simplify using Aws to send push notifications",
     "keywords": ["symfony", "push", "notification", "bundle", "gcm", "c2dm", "ios", "apns", "sns", "aws", "amazon", "fcm"],
